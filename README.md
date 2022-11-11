@@ -9,4 +9,5 @@
 # Azure technologies::
 ### Azure Cognitive Services, QnA Maker, Static Web Apps,
 # General Knowledge Project Screenshots::
-
+## Screen shot 1
+![Screenshot_20221111_144535](https://user-images.githubusercontent.com/110816320/201307806-615bc51e-0ccb-465c-b5cb-8518254270f4.jpg)
