@@ -2,7 +2,7 @@
 #  https://sites.google.com/view/chatbotgk/gk-for-modern-world
 # Project title::
 ### General Knowledge Chat Bot
-# industry::
+# industry:: 
 ### Ed tech
 # Project description::
 ### In my project i created a general knowledge based project and created a information about general knowledge to know and learn new skills . in this project the students learn new gk Questions and it answers also.
