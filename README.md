@@ -1,5 +1,5 @@
 # Project link::
-#  https://sites.google.com/view/chatbotgk/
+#  https://sites.google.com/view/chatbotgk/chatbot
 # Project title::
 ### General Knowledge Chat Bot
 # industry::
