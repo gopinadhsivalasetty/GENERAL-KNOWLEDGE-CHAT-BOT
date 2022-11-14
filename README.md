@@ -1,5 +1,5 @@
 # Project link::
-#  https://sites.google.com/view/chatbotgk/gk-for-modern-world
+#  https://sites.google.com/view/chatbotgk/gk-for-modern-world 
 # Project title::
 ### General Knowledge Chat Bot
 # industry:: 
